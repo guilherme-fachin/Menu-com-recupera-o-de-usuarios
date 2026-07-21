@@ -1,0 +1,234 @@
+===============================================================================
+                          Fachin Software License (FSL)
+                              Version 0.9 - Draft
+===============================================================================
+
+Copyright (c) 2026 Guilherme Fachin
+
+Todos os direitos reservados.
+
+Esta é a versão oficial em português da Fachin Software License (FSL).
+
+===============================================================================
+1. DEFINIÇÕES
+===============================================================================
+
+Para os fins desta licença:
+
+Autor Original
+    Significa Guilherme Fachin.
+
+Software
+    Significa todo o código-fonte, documentação, arquivos,
+    recursos e demais componentes distribuídos neste repositório.
+
+Versão Modificada
+    Significa qualquer software derivado total ou parcialmente
+    deste projeto.
+
+Uso Comercial
+    Significa qualquer utilização destinada à obtenção de lucro
+    direto ou indireto.
+
+
+===============================================================================
+2. PERMISSÕES
+===============================================================================
+
+É permitido:
+
+• Utilizar gratuitamente o Software;
+
+• Estudar o código-fonte;
+
+• Modificar cópias do Software para uso pessoal;
+
+• Redistribuir cópias originais ou modificadas, desde que todas
+  as condições desta licença sejam integralmente respeitadas;
+
+• Compartilhar livremente o link oficial do repositório.
+
+
+===============================================================================
+3. CRÉDITOS OBRIGATÓRIOS
+===============================================================================
+
+Toda redistribuição deverá manter integralmente:
+
+• O aviso de Copyright;
+
+• O nome do Autor Original;
+
+• Esta licença na íntegra;
+
+• Todos os avisos de autoria existentes.
+
+É proibido:
+
+• Remover créditos;
+
+• Alterar créditos;
+
+• Ocultar créditos;
+
+• Modificar qualquer referência ao Autor Original.
+
+
+===============================================================================
+4. RECONHECIMENTO DO AUTOR
+===============================================================================
+
+Toda redistribuição deverá informar claramente que o software
+original foi desenvolvido por Guilherme Fachin.
+
+Deverá constar a seguinte informação:
+
+    Original Software developed by Guilherme Fachin.
+
+Caso existam modificações, também deverá constar:
+
+    Modified version based on the original work of Guilherme Fachin.
+
+
+===============================================================================
+5. VERSÕES MODIFICADAS
+===============================================================================
+
+Toda Versão Modificada redistribuída deverá:
+
+• Informar claramente que NÃO é uma versão oficial;
+
+• Manter todos os créditos do Autor Original;
+
+• Manter esta licença;
+
+• Disponibilizar o código-fonte correspondente;
+
+• Incluir obrigatoriamente um arquivo denominado:
+
+      CHANGES.md
+
+Esse arquivo deverá conter, no mínimo:
+
+• Autor Original;
+
+• Repositório oficial;
+
+• Autor das modificações;
+
+• Data das modificações;
+
+• Descrição das alterações realizadas.
+
+
+===============================================================================
+6. USO COMERCIAL
+===============================================================================
+
+É proibido utilizar este Software para fins comerciais sem
+autorização expressa do Autor Original.
+
+Isso inclui, entre outros:
+
+• Venda do Software;
+
+• Venda de versões modificadas;
+
+• Inclusão deste Software em produtos comerciais;
+
+• Prestação de serviços baseados neste Software quando ele for
+  parte essencial do produto ou serviço.
+
+Qualquer interessado em utilização comercial deverá entrar em contato com o
+Autor Original para obtenção de autorização.
+
+===============================================================================
+7. NOME E REPUTAÇÃO
+===============================================================================
+
+É proibido utilizar:
+
+• O nome do Autor Original;
+
+• O nome do projeto;
+
+• Qualquer marca, identidade visual ou referência que possa
+  sugerir apoio, parceria, publicidade, promoção, propaganda, endosso,
+  indicação de parceria, recomendação ou aprovação do Autor Original sem 
+  autorização expressa.
+
+
+===============================================================================
+8. VERSÕES OFICIAIS
+===============================================================================
+
+Somente o Autor Original poderá utilizar expressões como:
+
+• Oficial (Official)
+
+• Versão Oficial (Official Version)
+
+• Lançamento Oficial (Official Release)
+
+• Lançamento Original (Original Release)
+
+ Toda Versão Modificada deverá indicar claramente que não se trata
+de uma versão oficial.
+
+
+===============================================================================
+9. CÓDIGO-FONTE
+===============================================================================
+
+Toda redistribuição de uma Versão Modificada deverá disponibilizar:
+
+• O código-fonte correspondente;
+
+• Esta licença;
+
+• O arquivo CHANGES.md;
+
+• Todos os créditos originais.
+
+
+===============================================================================
+10. GARANTIAS
+===============================================================================
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ" ("AS IS"), SEM QUALQUER
+GARANTIA EXPRESSA OU IMPLÍCITA.
+
+O AUTOR ORIGINAL NÃO GARANTE, INCLUINDO, MAS NÃO SE LIMITANDO A:
+
+• Funcionamento contínuo;
+
+• Ausência de erros;
+
+• Compatibilidade;
+
+• Desempenho;
+
+• Adequação a qualquer finalidade específica.
+
+O USO DO SOFTWARE É DE INTEIRA RESPONSABILIDADE DO USUÁRIO.
+
+EM NENHUMA HIPÓTESE O AUTOR ORIGINAL SERÁ RESPONSÁVEL POR
+QUALQUER DANO, DIRETO OU INDIRETO, DECORRENTE DA UTILIZAÇÃO
+DO SOFTWARE.
+
+
+===============================================================================
+11. RESERVA DE DIREITOS
+===============================================================================
+
+Todos os direitos não concedidos expressamente por esta licença
+permanecem pertencentes ao Autor Original.
+
+Qualquer utilização comercial, licenciamento especial ou exceção
+às regras desta licença dependerá de autorização expressa do
+Autor Original.
+
+
+===============================================================================
+                           FIM DA LICENÇA
+===============================================================================
